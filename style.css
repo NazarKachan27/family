@@ -46,10 +46,13 @@ header h1 {
     color: #777777; 
     text-decoration: none; 
     margin: 10px 0px 10px 10px; 
+    font-size: 25px; 
 } 
+.af:first-child {
+   padding-left: 124px;
+}
 .hot { 
    padding-left: 124px; 
-   font-size: 25px; 
 } 
 .af:hover { 
    border-bottom: 1px solid #282828; 
